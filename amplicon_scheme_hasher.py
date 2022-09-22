@@ -4,7 +4,6 @@ import argparse
 import hashlib
 import itertools
 import sys
-from termcolor import colored
 
 def hash_bed(bed_fp):
     """
